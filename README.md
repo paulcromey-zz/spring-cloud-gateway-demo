@@ -12,4 +12,6 @@ To run the Express "backend"
 
 ## Spring API Gateway
 
+To run the Spring "gateway"
+
 	mvn spring-boot:run
